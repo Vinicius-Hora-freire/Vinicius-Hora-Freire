@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprimorando minhas habidades **[HTML 5, CSS3, JS, GIT, Lógica de Programação].** 
 - 💼 *Estou em busca de oportunidades como estágios ou desenvolvedor júnior na área de Desenvolvimento Web Front-End.* 
-- 📬 **Como me encontrar:** [dahorafreirevinicius@gmail.com] ou [(11)972657456 (Whatsapp) - (11)953828362 (Somente ligações)]
+- 📬 **Como me encontrar:** [dahorafreirevinicius@gmail.com] ou [(11)97265-7456 (Whatsapp) - (11)95382-8362 (Somente ligações)]
 
 ## 🖥️ Habilidades | Ferramentas..:
 
