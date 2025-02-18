@@ -4,7 +4,7 @@
 
 #### ___*Sejam Bem-vindos(as) ao meu GitHub*___ 👋🏻
 
-## 📈Sobre:
+## 📨Sobre:
 
 Sou Vinícius da Hora Freire, um desenvolvedor em início de carreira, apaixonado por tecnologia e inovação. Minha jornada começou no curso de Desenvolvimento de Sistemas na ETEC, e atualmente curso Análise e Desenvolvimento de Sistemas enquanto concluo o bootcamp *Front-end do Zero* (Ri Happy & Dio.me).
 
