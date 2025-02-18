@@ -1,30 +1,47 @@
-### Olá, sejam bem-vindos(as) ao meu GitHub!!👋🏻
+# 🧑🏻‍💻 Vinícius Freire
 
-*Me chamo Vinícius da Hora Freire e estou em constante aprendizado, com uma paixão imensa por tecnologia e uma determinação inabalável para vencer na vida.🚀👨‍💻📚*
+**`Desenvolvedor Front-End`** 
 
-![Vinícius Freire GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Hora-freire&theme=github_dark)
+#### ___*Sejam Bem-vindos(as) ao meu GitHub*___ 👋🏻
 
 ## 📈Sobre:
 
-- 🌱 Atualmente estou aprimorando minhas habidades **[HTML 5, CSS3, JS, GIT, Lógica de Programação].** 
-- 💼 *Estou em busca de oportunidades como estágios ou desenvolvedor júnior na área de Desenvolvimento Web Front-End.* 
-- 📚 *Cursando Análise e Desenvolvimento de Sistemas na UNICSUL e Finalizando Bootcamp da Ri Happy - Front-End do Zero na Dio.me* 
-- 📬 **Como me encontrar:** [dahorafreirevinicius@gmail.com] ou [(11)97265-7456 (Whatsapp) - (11)95382-8362 (Somente ligações)]
+Sou Vinícius da Hora Freire, um desenvolvedor em início de carreira, apaixonado por tecnologia e inovação. Minha jornada começou no curso de Desenvolvimento de Sistemas na ETEC, e atualmente curso Análise e Desenvolvimento de Sistemas enquanto concluo o bootcamp *Front-end do Zero* (Ri Happy & Dio.me).
 
-## 🖥️ Habilidades | Ferramentas..:
+Tenho experiência prática em **HTML5, CSS3, JavaScript, Git, e algoritmos**, além de projetos independentes que unem criatividade e eficiência. Busco oportunidades como desenvolvedor ou estagiário front-end para aplicar minhas habilidades, aprender com profissionais experientes e contribuir para soluções impactantes.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) 
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+ - 📬 **Como me encontrar:** [dahorafreirevinicius@gmail.com] ou [(11)97265-7456 (Whatsapp) - (11)95382-8362 (Somente ligações)]
 
+
+## 🖥️ Linguagens e Tecnologias:
+
+<div style="display: inline_block"><br>
+
+<img align="center" style="padding-right:10px" alt="vini-html" height= "60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />  
+<img align="center" style="padding-right:10px" alt="vini-css" height= "60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="center" style="padding-right:10px" alt="vini-js" height= "49px" width="49px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" style="padding-right:10px" alt="vini-git" height= "51px" width="51px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+<img align="center" style="padding-right:10px" alt="vini-github" height= "51px" width="51px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="center" style="padding-right:10px" alt="vini-ps" height= "51px" width="51px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="center" style="padding-right:10px" alt="vini-ai" height= "51px" width="51px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img align="center" style="padding-right:10px" alt="vini-vscode" height= "51px" width="51px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" style="padding-right:10px" alt="vini-trello" height= "51px" width="51px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
+<img align="center" style="padding-right:10px" alt="vini-figma" height= "51px" width="51px"s src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center" style="padding-right:10px" alt="vini-canva" height= "51px" width="51px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
+</div><br>
 
 ## Vamos nos Conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-dahora-freire//)
+
+## 📊 Estátisticas
+
+<p>
+    <img align="left" alt="GitHub Status" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Hora-freire&theme=github_dark&include_all_commits=true&locale=pt-br">
+</p>
+
+<p>
+    <img align="left" alt="Habiliadades" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Hora-freire&layout=compact&langs_count=16&theme=github_dark">
+</p>
+
