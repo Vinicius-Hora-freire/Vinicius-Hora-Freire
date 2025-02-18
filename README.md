@@ -38,10 +38,10 @@ Tenho experiência prática em **HTML5, CSS3, JavaScript, Git, e algoritmos**, a
 ## 📊 Estátisticas
 
 <p>
-    <img align="left" alt="GitHub Status" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Hora-freire&theme=github_dark&include_all_commits=true&locale=pt-br">
+    <img align="left" alt="GitHub Status" height="150" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Hora-freire&theme=github_dark&include_all_commits=true&locale=pt-br">
 </p>
 
 <p>
-    <img align="left" alt="Habiliadades" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Hora-freire&layout=compact&langs_count=16&theme=github_dark">
+    <img align="left" alt="Habiliadades" height="150" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Hora-freire&layout=compact&langs_count=16&theme=github_dark">
 </p>
 
