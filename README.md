@@ -4,13 +4,16 @@
 
 #### ___*Sejam Bem-vindos(as) ao meu GitHub*___ 👋🏻
 
-## 📨Sobre:
+## 📨 Sobre:
 
-Sou Vinícius da Hora Freire, um desenvolvedor em início de carreira, apaixonado por tecnologia e inovação. Minha jornada começou no curso de Desenvolvimento de Sistemas na ETEC, e atualmente curso Análise e Desenvolvimento de Sistemas enquanto concluo o bootcamp *Front-end do Zero* (Ri Happy & Dio.me).
+Sou Vinícius Freire, um desenvolvedor em início de carreira, apaixonado por tecnologia e inovação. Minha jornada começou no curso de Desenvolvimento de Sistemas na ETEC, e atualmente curso Análise e Desenvolvimento de Sistemas enquanto concluo o bootcamp *Front-end do Zero* (Ri Happy & Dio.me).
 
-Tenho experiência prática em **HTML5, CSS3, JavaScript, Git, e algoritmos**, além de projetos independentes que unem criatividade e eficiência. Busco oportunidades como desenvolvedor ou estagiário front-end para aplicar minhas habilidades, aprender com profissionais experientes e contribuir para soluções impactantes.
+Tenho experiência prática em **HTML5, CSS3, JavaScript, Git e algoritmos**, além de projetos independentes que unem criatividade e eficiência. Busco oportunidades como desenvolvedor ou estágio front-end para aplicar minhas habilidades, aprender com profissionais experientes e contribuir para soluções impactantes.
 
- - 📬 **Como me encontrar:** [dahorafreirevinicius@gmail.com] ou [(11)97265-7456 (Whatsapp) - (11)95382-8362 (Somente ligações)]
+ - 📬 **Como me encontrar:**
+
+    * E-mail: [dahorafreirevinicius@gmail.com]
+    * Telefone: (11)97265-7458 (Whatsapp) ou (11)95382-8362 (Somente ligações)
 
 
 ## 🖥️ Linguagens e Tecnologias:
@@ -39,9 +42,11 @@ Tenho experiência prática em **HTML5, CSS3, JavaScript, Git, e algoritmos**, a
 
 <p>
     <img align="left" alt="GitHub Status" height="150" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Hora-freire&theme=github_dark&include_all_commits=true&locale=pt-br">
+
 </p>
 
 <p>
     <img align="left" alt="Habiliadades" height="150" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Hora-freire&layout=compact&langs_count=16&theme=github_dark">
+
 </p>
 
