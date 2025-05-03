@@ -8,7 +8,7 @@
 
 Sou Vinícius Freire, um desenvolvedor em início de carreira, apaixonado por tecnologia e inovação. Minha jornada começou no curso de Desenvolvimento de Sistemas na ETEC, e atualmente curso Análise e Desenvolvimento de Sistemas enquanto concluo o bootcamp *Front-end do Zero* (Ri Happy & Dio.me).
 
-Tenho experiência prática em **HTML5, CSS3, JavaScript, Git e algoritmos**, além de projetos independentes que unem criatividade e eficiência. Busco oportunidades como desenvolvedor ou estágio front-end para aplicar minhas habilidades, aprender com profissionais experientes e contribuir para soluções impactantes.
+Tenho experiência prática em **HTML5, CSS3, JavaScript, Git e algoritmos**, além de projetos independentes que unem criatividade e eficiência. Busco oportunidades como desenvolvedor ou estágio front-end para aplicar minhas habilidades, aprender com profissionais experientes e contribuir com soluções impactantes.
 
  - 📬 **Como me encontrar:**
 
